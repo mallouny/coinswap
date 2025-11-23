@@ -1,10 +1,3 @@
-//
-//  APIClient.swift
-//  coinswap
-//
-//  Created by vladislav mallouny on 18.11.2025.
-//
-
 import Foundation
 
 enum APIError: Error {
